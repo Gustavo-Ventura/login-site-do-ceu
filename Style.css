@@ -1,0 +1,12 @@
+body {
+background: url("background.png");
+background-size: cover;
+}
+
+.login {
+    background: url("background-bondinhaa.png");
+    background-size: cover;
+    width: 30vw;
+    height: 70vh;
+    margin: 5% auto 0 auto; 
+}
